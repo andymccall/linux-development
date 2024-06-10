@@ -9,7 +9,7 @@ begin
 
   write('Please enter a character: ');
   chr:=ReadKey;
-  writeln();
+  writeln(chr);
   writeln('Hello, ', chr);
 
 end.
